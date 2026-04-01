@@ -25,6 +25,7 @@ Hash chain formula:
 
 The logger stores data in append-only JSON Lines (`logs.json`) and writes tamper alerts to `alerts.log`.
 
+
 ## How to run
 
 ### 1) Provide a secret key
